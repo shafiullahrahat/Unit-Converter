@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string-array name="UnitsConversion">
+        <item>cm to inches</item>
+        <item>inches to cm</item>
+        <item>kg to lbs</item>
+        <item>lbs to kg</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>meters to feet</item>
+        <item>Feet to Meters</item>
+    </string-array>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about_us_Id"
+        android:title="About Me"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/contact_us_Id"
+        android:title="Contact Me"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/share_Id"
+        android:title="Share App"
+        app:showAsAction="never"
+        />
+</menu>
